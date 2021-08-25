@@ -14,5 +14,8 @@
 <br>
 
 🔭 I’m currently working on and learning:
-  - Text Classification
+  - C/C++
+  - Theory of Computation
   - Neural Networks
+
+ 
