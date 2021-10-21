@@ -15,7 +15,7 @@
 
 🔭 I’m currently working on and learning:
   - C/C++
-  - Theory of Computation
-  - Neural Networks
+  - Computer Systems
+  - Computer Vision
 
  
