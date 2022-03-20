@@ -14,8 +14,8 @@
 <br>
 
 🔭 I’m currently working on and learning:
-  - C/C++
-  - Computer Systems
+  - TypeScript, React, Webpack
   - Computer Vision
+  - UI Design
 
  
