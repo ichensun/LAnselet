@@ -8,9 +8,6 @@
   <br/>
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/zjrwtx?style=social)](https://github.com/zjrwtx)
-![Profile Views](https://komarev.com/ghpvc/?username=zjrwtx&color=blueviolet)
-
 </div>
 
 ## 🎯 关于我 | About Me 
