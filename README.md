@@ -16,7 +16,7 @@
 
 - 🔭 
 - 🚀 
-- 🌱 I/ENFJ ♓️ Computer Science Student
+- 🌱 INFJ ♓️ Computer Science Student
 - 🎯 🧑‍💻 🎾 💪
 
 ## 💻 Tech Stack
