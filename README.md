@@ -14,8 +14,6 @@
 
 > "less is more"
 
-- 🔭 
-- 🚀 
 - 🌱 INFJ ♓️ Computer Science Student
 - 🎯 🧑‍💻 🎾 💪
 
