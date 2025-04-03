@@ -8,7 +8,7 @@
   <br/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LAnselet&layout=donut)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LAnselet&layout=donut)
 </div>
 
 ## 🎯 About Me 
