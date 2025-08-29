@@ -11,7 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichensun&layout=donut)
 </div>
 
-## 👋 Hi there~
+## Hi there~ 👋
 
 - ♓️ I'm a INFJ Computer Science Student
 - 🎯 I'm currently learning full stack development, microservces
