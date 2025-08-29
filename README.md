@@ -11,12 +11,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichensun&layout=donut)
 </div>
 
-## 🎯 About Me 
+## 👋 Hi there~
 
-> "less is more"
-
-- 🌱 INFJ ♓️ Computer Science Student
-- 🎯 🧑‍💻 🎾 💪
+- ♓️ I'm a INFJ Computer Science Student
+- 🎯 I'm currently learning full stack development, microservces
+- 🎾 I'm currently playing tennis, pickleball
+- 💪 Stay health, stay fit
 
 ## 💻 Tech Stack
 
