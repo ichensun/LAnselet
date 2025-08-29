@@ -16,7 +16,7 @@
 - ♓️ I'm a INFJ Computer Science Student
 - 🎯 I'm currently learning full stack development, microservces
 - 🎾 I'm currently playing tennis, pickleball
-- 💪 Stay health, stay fit
+- 💪 Stay healthy, stay fit
 
 ## 💻 Tech Stack
 
