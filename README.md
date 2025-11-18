@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌟 Hello World, I'm Yichen (Sam)
+# 🌟 Hello World, I'm Sam
 ### Software Engineer
 
 <p>
